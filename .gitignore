@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+.venv/
+env/
+venv/
+*.pyc
+*.pyo
+*.pyd
+env\
+.env
+.DS_Store
+data/superstore.csv
+/.vscode/

@@ -34,17 +34,7 @@ streamlit run app.py
 - RFM calculation and a US-state choropleth (uses state mapping in `src/data_processing.py`).
 - Updated `requirements.txt` and added `.gitignore`.
 
-## 🔧 Prepare & Push to GitHub
-If you already have a GitHub repo, run:
 
-```bash
-git init
-git add .
-git commit -m "Add modular Streamlit dashboard and data processing"
-git branch -M main
-git remote add origin <YOUR_REMOTE_URL>
-git push -u origin main
-```
 
 Replace `<YOUR_REMOTE_URL>` with your GitHub repository URL.
 
